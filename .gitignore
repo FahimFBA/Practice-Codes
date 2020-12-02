@@ -1,0 +1,5 @@
+#ignore exe
+*.exe
+
+#ignore class
+*.class
