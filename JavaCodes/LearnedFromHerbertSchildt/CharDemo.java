@@ -1,3 +1,5 @@
+// Demonstrate char data types
+
 public class CharDemo {
 public static void main(String[] args){
     char ch1, ch2;
