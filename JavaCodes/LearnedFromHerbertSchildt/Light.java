@@ -22,4 +22,4 @@
          System.out.print(" days light will travel about ");
          System.out.print(distance + " miles.");
      }
- }
+ } 
