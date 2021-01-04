@@ -1,7 +1,0 @@
-C:\Users\FBA\Desktop\Practice-Codes\C# Codes\StartingProject1\StartingProject1\bin\Debug\StartingProject1.exe.config
-C:\Users\FBA\Desktop\Practice-Codes\C# Codes\StartingProject1\StartingProject1\bin\Debug\StartingProject1.exe
-C:\Users\FBA\Desktop\Practice-Codes\C# Codes\StartingProject1\StartingProject1\bin\Debug\StartingProject1.pdb
-C:\Users\FBA\Desktop\Practice-Codes\C# Codes\StartingProject1\StartingProject1\obj\Debug\StartingProject1.csprojAssemblyReference.cache
-C:\Users\FBA\Desktop\Practice-Codes\C# Codes\StartingProject1\StartingProject1\obj\Debug\StartingProject1.csproj.CoreCompileInputs.cache
-C:\Users\FBA\Desktop\Practice-Codes\C# Codes\StartingProject1\StartingProject1\obj\Debug\StartingProject1.exe
-C:\Users\FBA\Desktop\Practice-Codes\C# Codes\StartingProject1\StartingProject1\obj\Debug\StartingProject1.pdb
