@@ -1,7 +1,0 @@
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\AddString\AddString\bin\Debug\AddString.exe.config
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\AddString\AddString\bin\Debug\AddString.exe
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\AddString\AddString\bin\Debug\AddString.pdb
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\AddString\AddString\obj\Debug\AddString.csprojAssemblyReference.cache
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\AddString\AddString\obj\Debug\AddString.csproj.CoreCompileInputs.cache
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\AddString\AddString\obj\Debug\AddString.exe
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\AddString\AddString\obj\Debug\AddString.pdb

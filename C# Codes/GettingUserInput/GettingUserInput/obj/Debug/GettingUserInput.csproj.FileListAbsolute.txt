@@ -1,7 +1,0 @@
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\GettingUserInput\GettingUserInput\bin\Debug\GettingUserInput.exe.config
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\GettingUserInput\GettingUserInput\bin\Debug\GettingUserInput.exe
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\GettingUserInput\GettingUserInput\bin\Debug\GettingUserInput.pdb
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.csprojAssemblyReference.cache
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.csproj.CoreCompileInputs.cache
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.exe
-C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.pdb
