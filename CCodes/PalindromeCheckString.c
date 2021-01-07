@@ -1,33 +1,32 @@
-#include <stdio.h>
-#include <string.h>
- 
-void check(char [], int);
- 
-int main()
-{
-    char word[15];
- 
-    printf("Enter a word to check if it is a palindrome\n");
-    scanf("%s", word);
-    check(word, 0);
- 
-    return 0;
-}
- 
-void check(char word[], int index)
-{
-    int len = strlen(word) - (index + 1);
-    if (word[index] == word[len])
+    #include <stdio.h>
+    #include <string.h>
+    
+    void check(char [], int); // declaration of the function
+    
+    int main() // main function. The code will execute from here
     {
-        if (index + 1 == len || index == len)
+        char word[50];
+        printf("Enter a string to check: ");
+        scanf("%s", word);
+        check(word, 0);
+        return 0;
+    }
+    
+
+    void check(char word[], int index)  // user-defined function for checking palindrome
+    {
+        int len = strlen(word) - (index + 1);
+        if (word[index] == word[len])
         {
-            printf("The entered word is a palindrome\n");
-            return;
+            if (index + 1 == len || index == len)
+            {
+                printf("The word is palindrome!\n");
+                return;
+            }
+            check(word, index + 1);
         }
-        check(word, index + 1);
+        else
+        {
+            printf("The word is not palindrome.\n");
+        }
     }
-    else
-    {
-        printf("The entered word is not a palindrome\n");
-    }
-}
