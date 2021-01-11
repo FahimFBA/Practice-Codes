@@ -10,7 +10,7 @@ namespace WorkingWithNumbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(5+10);
+            Console.WriteLine(5 + 10);
             Console.WriteLine(25 / 3.5);
             Console.WriteLine(5 / 2);
 

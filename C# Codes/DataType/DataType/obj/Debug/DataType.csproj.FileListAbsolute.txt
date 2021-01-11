@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DataType\DataType\bin\Debug\DataType.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DataType\DataType\bin\Debug\DataType.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DataType\DataType\bin\Debug\DataType.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DataType\DataType\obj\Debug\DataType.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DataType\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DataType\DataType\obj\Debug\DataType.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DataType\DataType\obj\Debug\DataType.pdb

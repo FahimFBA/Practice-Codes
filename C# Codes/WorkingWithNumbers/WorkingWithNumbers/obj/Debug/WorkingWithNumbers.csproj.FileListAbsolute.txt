@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\WorkingWithNumbers.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\WorkingWithNumbers.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\WorkingWithNumbers.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.pdb

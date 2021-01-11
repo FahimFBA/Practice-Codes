@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingACalculator\BuildingACalculator\bin\Debug\BuildingACalculator.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingACalculator\BuildingACalculator\bin\Debug\BuildingACalculator.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingACalculator\BuildingACalculator\bin\Debug\BuildingACalculator.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingACalculator\BuildingACalculator\obj\Debug\BuildingACalculator.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingACalculator\BuildingACalculator\obj\Debug\BuildingACalculator.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingACalculator\BuildingACalculator\obj\Debug\BuildingACalculator.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingACalculator\BuildingACalculator\obj\Debug\BuildingACalculator.pdb
