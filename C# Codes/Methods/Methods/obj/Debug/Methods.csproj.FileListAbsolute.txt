@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Methods\Methods\obj\Debug\Methods.pdb
