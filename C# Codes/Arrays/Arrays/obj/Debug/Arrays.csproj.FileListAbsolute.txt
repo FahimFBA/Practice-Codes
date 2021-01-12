@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\Arrays\Arrays\obj\Debug\Arrays.pdb
