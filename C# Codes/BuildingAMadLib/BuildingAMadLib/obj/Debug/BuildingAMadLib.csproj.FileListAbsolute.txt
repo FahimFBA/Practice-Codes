@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAMadLib\BuildingAMadLib\bin\Debug\BuildingAMadLib.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAMadLib\BuildingAMadLib\bin\Debug\BuildingAMadLib.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAMadLib\BuildingAMadLib\bin\Debug\BuildingAMadLib.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAMadLib\BuildingAMadLib\obj\Debug\BuildingAMadLib.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAMadLib\BuildingAMadLib\obj\Debug\BuildingAMadLib.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAMadLib\BuildingAMadLib\obj\Debug\BuildingAMadLib.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAMadLib\BuildingAMadLib\obj\Debug\BuildingAMadLib.pdb
