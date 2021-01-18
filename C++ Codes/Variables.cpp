@@ -8,4 +8,9 @@ int main()
     cout << "He was " << CharacterAge << " years old" << endl;
     cout << "He liked the name " << CharacterName << endl;
     cout << "But did not like being " << CharacterAge << " years old" << endl; 
+
+    CharacterName = "FBA"; // Changinge the CharacterName value 
+    cout << "He liked the name " << CharacterName << endl;
+    cout << "But did not like being " << CharacterAge << " years old" << endl;
+
 }
