@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb
