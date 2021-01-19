@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\BuildingABetterCalculator.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\BuildingABetterCalculator.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\BuildingABetterCalculator.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\BuildingABetterCalculator.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\BuildingABetterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\BuildingABetterCalculator.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\BuildingABetterCalculator.pdb
