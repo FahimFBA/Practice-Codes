@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb

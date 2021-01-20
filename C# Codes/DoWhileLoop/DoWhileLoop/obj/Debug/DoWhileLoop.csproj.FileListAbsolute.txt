@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.pdb
