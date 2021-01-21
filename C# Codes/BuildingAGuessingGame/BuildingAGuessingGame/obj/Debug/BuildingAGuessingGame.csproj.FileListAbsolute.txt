@@ -1,0 +1,7 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\BuildingAGuessingGame.exe.config
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\BuildingAGuessingGame.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\BuildingAGuessingGame.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.pdb

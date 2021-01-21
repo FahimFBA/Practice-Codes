@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\bin\Debug\net5.0\ForLoops.exe
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\bin\Debug\net5.0\ForLoops.deps.json
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\bin\Debug\net5.0\ForLoops.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\bin\Debug\net5.0\ForLoops.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\bin\Debug\net5.0\ForLoops.dll
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\bin\Debug\net5.0\ref\ForLoops.dll
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\bin\Debug\net5.0\ForLoops.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\obj\Debug\net5.0\ForLoops.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\obj\Debug\net5.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\obj\Debug\net5.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\obj\Debug\net5.0\ForLoops.dll
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\obj\Debug\net5.0\ref\ForLoops.dll
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\obj\Debug\net5.0\ForLoops.pdb
+C:\Users\FBA\Desktop\Github repo\Practice-Codes\C# Codes\ForLoops\obj\Debug\net5.0\ForLoops.genruntimeconfig.cache
