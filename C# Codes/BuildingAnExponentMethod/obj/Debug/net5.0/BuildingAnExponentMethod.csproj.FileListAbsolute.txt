@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\bin\Debug\net5.0\ref\BuildingAnExponentMethod.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\obj\Debug\net5.0\ref\BuildingAnExponentMethod.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.genruntimeconfig.cache
