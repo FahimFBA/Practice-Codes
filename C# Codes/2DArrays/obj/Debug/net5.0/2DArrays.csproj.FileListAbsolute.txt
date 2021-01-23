@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\bin\Debug\net5.0\2DArrays.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\bin\Debug\net5.0\2DArrays.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\bin\Debug\net5.0\2DArrays.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\bin\Debug\net5.0\2DArrays.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\bin\Debug\net5.0\2DArrays.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\bin\Debug\net5.0\ref\2DArrays.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\bin\Debug\net5.0\2DArrays.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\obj\Debug\net5.0\2DArrays.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\obj\Debug\net5.0\2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\obj\Debug\net5.0\2DArrays.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\obj\Debug\net5.0\2DArrays.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\obj\Debug\net5.0\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\obj\Debug\net5.0\2DArrays.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\obj\Debug\net5.0\ref\2DArrays.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\obj\Debug\net5.0\2DArrays.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\2DArrays\obj\Debug\net5.0\2DArrays.genruntimeconfig.cache
