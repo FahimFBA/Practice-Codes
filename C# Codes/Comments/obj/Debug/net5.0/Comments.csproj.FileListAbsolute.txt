@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\bin\Debug\net5.0\Comments.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\bin\Debug\net5.0\Comments.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\bin\Debug\net5.0\Comments.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\bin\Debug\net5.0\Comments.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\bin\Debug\net5.0\Comments.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\bin\Debug\net5.0\ref\Comments.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\bin\Debug\net5.0\Comments.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\obj\Debug\net5.0\Comments.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\obj\Debug\net5.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\obj\Debug\net5.0\Comments.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\obj\Debug\net5.0\Comments.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\obj\Debug\net5.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\obj\Debug\net5.0\Comments.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\obj\Debug\net5.0\ref\Comments.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\obj\Debug\net5.0\Comments.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Comments\obj\Debug\net5.0\Comments.genruntimeconfig.cache
