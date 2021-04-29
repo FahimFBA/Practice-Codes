@@ -1,0 +1,17 @@
+2. Create an Employee record system for a company. The application will help the company to view the 
+record of a specific employee (given id), update the employee’s info and get the employee’s current 
+salary. (Use an array to store different types of employee objects. Subclass polymorphism should be 
+used)
+The Company has 3 types of employee (Salaried, HourlySalaried, Commissioned), your application must 
+handle all types of employees.
+
+
+
+
+
+Note: 
+1. Salaried Employee: Salary given at the end of each month. 
+
+2. HourlySalaried Employee: Salary calculated as: Salary per hour * No of hours worked. 
+
+3. Commissoned Employee: Has a base salary + commission for each product sold.
