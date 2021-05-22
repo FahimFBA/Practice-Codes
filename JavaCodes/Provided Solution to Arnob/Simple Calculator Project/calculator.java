@@ -58,6 +58,12 @@ public class calculator implements ActionListener
         f.setSize(300,300);
         f.setBackground(Color.RED);
         f.setVisible(true);
+        f.addWindowListener(new WindowAdapter() {
+        public void windowClosing(WindowEvent we) {
+            f.dispose();
+         }
+     }
+);
     }
     public void actionPerformed(ActionEvent e)
     {
