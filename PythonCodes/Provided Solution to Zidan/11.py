@@ -1,6 +1,9 @@
-# Taking int value from the user
 value = int(input())
-# Converting the int value into string
-StringValue = str(value)
-for i in reversed(StringValue):
-    print(i+",", end =" ")
+temp = value
+sum = 0
+count = 0
+while(temp > 0):
+    rem = temp % 10
+    temp = temp // 10
+    sum = sum + rem
+    print(rem,",", end='')
