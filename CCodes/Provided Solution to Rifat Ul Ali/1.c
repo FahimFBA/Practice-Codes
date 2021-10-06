@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<stdlib.h>
+#include <stdlib.h>
 
 void strcat(char *str1, char *str2);
 
@@ -7,19 +7,20 @@ int main()
 {
     FILE *fptr;
 
-    if ((fptr = fopen("program.txt", "r")) == NULL)
+    if ((fptr = fopen("input.txt", "r")) == NULL)
     {
-        printf("Error! opening file");
+        printf("Error! Can't open the text file!\n");
 
-        // Program exits if the file pointer returns NULL.
         exit(1);
     }
 
     char str1[100], str2[100];
-    scanf("%s", &str1);
-    scanf("%s", &str2);
+    fscanf(fptr, "%s", &str1);
+    fscanf(fptr, "%s", &str2);
     strcat(str1, str2);
-    printf("%s\n", str1);
+    fptr = fopen("output.txt", "w");
+    fprintf(fptr, "%s\n", str1);
+    fclose(fptr);
     return 0;
 }
 
