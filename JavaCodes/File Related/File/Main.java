@@ -13,5 +13,17 @@ public class Main{
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
+
+        // checking whether the files exist or not
+        if(file1.exists()){
+            System.out.println("File1 exists");
+        } else {
+            System.out.println("File1 does not exist");
+        }
+        if(file2.exists()){
+            System.out.println("File2 exists");
+        } else {
+            System.out.println("File2 does not exist");
+        }
     }
 }
