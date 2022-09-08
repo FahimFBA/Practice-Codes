@@ -25,5 +25,12 @@ public class Main{
         } else {
             System.out.println("File2 does not exist");
         }
+
+        file2.delete();
+        if(file2.exists()){
+            System.out.println("File2 exists");
+        } else {
+            System.out.println("File2 does not exist");
+        }
     }
 }
